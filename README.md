@@ -148,7 +148,7 @@ DatabaseJava_MuhammadFikri_I.2510162/
 
 ## 🖼️ Screenshot Aplikasi
 
-![Screenshot Aplikasi](Image/Gambar1.jpg)
+![Screenshot Aplikasi](Image/Gambar1.png)
 
 ---
 
