@@ -19,7 +19,7 @@
 |-------|--------|
 | **Nama** | Muhammad Fikri |
 | **NIM** | I.1510162 |
-| **Mata Kuliah** | Pemrograman Basis Data |
+| **Mata Kuliah** | Bahasa Pemrograman 1 / Pemrograman Berorientasi Objek (OOP) |
 
 ---
 
