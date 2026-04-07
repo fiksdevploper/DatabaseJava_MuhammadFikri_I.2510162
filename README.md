@@ -189,5 +189,9 @@ Proyek ini dibuat untuk keperluan **tugas akademik**. Bebas digunakan sebagai re
 ---
 
 <div align="center">
-  Made with ☕ by <strong>Muhammad Fikri</strong> — I.1510162
+  <strong>Muhammad Fikri</strong> — I.1510162<br>
+  <sub>
+    🔗 <a href="https://github.com/fiksdevploper">GitHub</a> ·
+    💼 <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/?skipRedirect=true">LinkedIn</a>
+  </sub>
 </div>
