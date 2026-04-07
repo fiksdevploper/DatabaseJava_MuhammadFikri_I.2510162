@@ -4,7 +4,7 @@
 - **Nama**: Muhammad Fikri  
 - **NIM**: I.1510162  
 
-![Screenshot Aplikasi](image/Gambar.jpg)
+![Screenshot Aplikasi](Image/Gambar.jpg)
 
 ---
 
